@@ -126,6 +126,7 @@ Edit
   "jwt_token": "your_jwt_token",
   "database": "your_database",
   "table_name": "your_table_name"
+  
 }
 2. Get Progress
 GET /ingest/progress/{task_id}
